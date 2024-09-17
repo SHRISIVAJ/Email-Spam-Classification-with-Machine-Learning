@@ -50,8 +50,8 @@ Evaluation: Using metrics such as accuracy, precision, recall, F1-score, and con
 Usage
 1. Clone this repository:
 
-git clone https://github.com/your-username/spam-email-classification.git
-cd spam-email-classification
+git clone https://github.com/SHRISIVAJ/Email-Spam-Classification-with-Machine-Learning.git
+cd Email-Spam-Classification-with-Machine-Learning
 
 2. Make sure the required Python libraries are installed.
 
