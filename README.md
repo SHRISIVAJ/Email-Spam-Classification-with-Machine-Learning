@@ -4,6 +4,15 @@ This project implements a Naive Bayes classifier to detect spam emails using wor
 Project Overview
 The primary objective of this project is to classify emails as spam or not spam using machine learning techniques. The dataset contains several email samples, each represented as numerical features extracted from the text. The final model achieves an accuracy of 94.85%, indicating high performance for identifying spam emails.
 
+## Try it on Google Colab
+
+You can run the complete notebook on Google Colab using the link below:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KvlvHPjZhH084TxhsQVkvvJWxYh5hqQY?usp=sharing)
+
+Alternatively, you can open it directly: [Colab Notebook Link](https://colab.research.google.com/drive/1KvlvHPjZhH084TxhsQVkvvJWxYh5hqQY?usp=sharing).
+
+
 Key Features:
 Dataset: Contains word frequency counts in emails.
 Model: Multinomial Naive Bayes.
